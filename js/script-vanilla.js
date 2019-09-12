@@ -1,4 +1,3 @@
-
 const contributersButon = document.querySelector('#toggle-contributers');
 const contributers = document.querySelector('.contributers__list');
 
